@@ -1,5 +1,3 @@
-![Alt text for your image]([URL_to_your_image](https://github.com/SandhiyaRa/Self-help-books/blob/main/SELF%20HELP%20BOOKS%20110123%20default-land%20(1).jpg))
-
 ![Wow](https://github.com/SandhiyaRa/Self-help-books/blob/main/SELF%20HELP%20BOOKS%20110123%20default-land%20(1).jpg)
 How to talk to Anyone
 Atomic Habits

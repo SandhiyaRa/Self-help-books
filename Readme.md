@@ -1,30 +1,34 @@
 ![Wow](https://github.com/SandhiyaRa/Self-help-books/blob/main/SELF%20HELP%20BOOKS%20110123%20default-land%20(1).jpg)
--How to talk to Anyone
--Atomic Habits
--Rich Dad Poor Dad
--The 5AM Club
--Thinking Fast and Slow
--The 49 laws of power
--Make your bed
--The Subtle art of not caring
--How to win friends ad Influence people
--Think and grow rich
--The power of habit
--The 7 habits of highly effective people
--The power of positive thinking 
--12 Rules of Life
--The 80/20 principle
--The 4-Hour Body
--Never got a real job
--Quiet
--Girl,stop apologizing
--Girl,wash your face
--Talking to strangers
--Deep work
--Getting things done
--Who moved my cheese
--The 4-hour Workweek 
--The Power of Now 
+## Book List
+
+- **How to Talk to Anyone**
+- **Atomic Habits**
+- **Rich Dad Poor Dad**
+- **The 5AM Club**
+- **Thinking, Fast and Slow**
+- **The 49 Laws of Power**
+- **Make Your Bed**
+- **The Subtle Art of Not Giving a F*ck**
+- **How to Win Friends and Influence People**
+- **Think and Grow Rich**
+- **The Power of Habit**
+- **The 7 Habits of Highly Effective People**
+- **The Power of Positive Thinking**
+- **12 Rules for Life**
+- **The 80/20 Principle**
+- **The 4-Hour Body**
+- **Never Split the Difference**
+- **Quiet**
+- **Girl, Stop Apologizing**
+- **Girl, Wash Your Face**
+- **Talking to Strangers**
+- **Deep Work**
+- **Getting Things Done**
+- **Who Moved My Cheese?**
+- **The 4-Hour Workweek**
+- **The Power of Now**
+
+## Book Descriptions
 
 How to Talk to Anyone by Leil Lowndes: A guide providing 92 tricks for big success in relationships, offering practical advice for mastering any conversation and making lasting impressions.
 Atomic Habits by James Clear: Explores how tiny changes can lead to remarkable results by focusing on building good habits and breaking bad ones.
